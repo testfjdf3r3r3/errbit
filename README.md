@@ -10,6 +10,8 @@
 [gemnasium-url]:https://gemnasium.com/errbit/errbit
 [heroku-deploy-url]:https://heroku.com/deploy?template=https://github.com/errbit/errbit/tree/master
 
+
+
 ### The open source, self-hosted error catcher
 
 Errbit is a tool for collecting and managing errors from other applications.
